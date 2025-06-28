@@ -25,10 +25,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepaltay&show_icons=true&locale=en&layout=compact" alt="zeynepaltay" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeynepaltay/zeynepaltay/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeynepaltay/zeynepaltay/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeynepaltay/zeynepaltay/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/zeynepaltay/zeynepaltay/output/snake.svg" alt="Snake animation" />
 
 ###
