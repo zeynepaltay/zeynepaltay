@@ -9,7 +9,7 @@
 
 - 🎓 Computer Engineering graduate with hands-on experience in enterprise-level Java applications
 - 💼 Currently working with **Java 8+, Spring Boot, Spring Data JPA**, and **RESTful APIs**
-- 🔧 Familiar with **Kafka**, **RabbitMQ**, **Docker**, **Kubernetes**, and microservice architectures
+- 🔧 Familiar with **Kafka**, **RabbitMQ**, **Docker**, **Kubernetes** and microservice architectures
 - 🛠️ Passionate about clean code, testability, and well-documented solutions
 - 🤝 Open to collaborative and innovative backend development opportunities
 
